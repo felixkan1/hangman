@@ -1,0 +1,1 @@
+{"version":3,"file":"sound.js","sourceRoot":"","sources":["../../src/data/sound.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,KAAK,GAAG;IACnB,GAAG,EAAE,IAAI,KAAK,CAAC,oBAAoB,CAAC;IACpC,IAAI,EAAE,IAAI,KAAK,CAAC,qBAAqB,CAAC;IACtC,KAAK,EAAE,IAAI,KAAK,CAAC,sBAAsB,CAAC;CACzC,CAAA"}
